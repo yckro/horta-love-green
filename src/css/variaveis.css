@@ -1,0 +1,19 @@
+:root{
+    --max-width-size:1920px;
+}
+:root {
+    --mobile-padding: 30px;
+}
+
+:root{
+    --cor-1:#207f16;
+    --cor-2:#005000;
+    --cor-3:#fff;
+    --cor-4: rgb(139, 186, 31);
+    --cor-5:#000
+}
+
+:root{
+    --fonte-titulo:'Raleway', sans-serif;
+    --fonte-titulo-2:'Roboto', sans-serif;
+}
