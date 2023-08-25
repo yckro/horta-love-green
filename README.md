@@ -14,4 +14,3 @@ https://github.com/yckro
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Um agradecimento publicamente 🫂;
-
