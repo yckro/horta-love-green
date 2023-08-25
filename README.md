@@ -2,6 +2,8 @@
 
 Horta online da fazenda para sua mesa
 
+[<img src="./src/images/Screenshot 2023-08-25 13.22.10.png" alt="horta">]
+
 ## 🛠️ Construído com
 
 HTML/CSS
