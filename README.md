@@ -2,7 +2,6 @@
 
 Horta online da fazenda para sua mesa
 
-[<img src="../src/images/gps.jpeg" alt="horta">]
 
 ## 🛠️ Construído com
 
